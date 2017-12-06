@@ -1,1 +1,1 @@
-组合(Composite)模式
+缁勫悎(Composite)妯″紡
